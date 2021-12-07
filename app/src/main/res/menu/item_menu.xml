@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_loja"
+        android:icon="@drawable/ic_baseline_storefront_24"
+        android:title="Loja" />
+
+
+    <item
+        android:id="@+id/nav_mapa"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Mapa" />
+
+    <item
+        android:id="@+id/nav_qrcode"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:title="QRCode" />
+
+    <item
+        android:id="@+id/nav_vouchers"
+        android:icon="@drawable/ic_baseline_local_offer_24"
+        android:title="Vouchers" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+
+</menu>
